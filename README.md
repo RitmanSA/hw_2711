@@ -1,0 +1,1 @@
+max.py finds maximum in array
