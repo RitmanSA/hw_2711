@@ -1,1 +1,1 @@
-max.py finds maximum in array
+max.py finds minimum in array, input from keyboard added
